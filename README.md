@@ -10,5 +10,4 @@ My name is Moses Mtengo
 - :bowtie: I was the GDSC Lead for 2022/23 and I'm a Gold - MLSA for Machakos University, Kenya.
 - 💬 Ask me about Github, Azure, the Shell, App Development using either Kotlin or Dart.
 - 📫 How to reach me: @Qurlarmah-Twitter @Kalama Moses-Linkedin
-- ♂️ Pronouns: He/Him/His
 - ⚡ Fun fact: I'm a huge StarWars fan and I love cycling.
